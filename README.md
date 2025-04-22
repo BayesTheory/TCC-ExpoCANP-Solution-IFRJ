@@ -95,8 +95,7 @@ Siga os passos abaixo para configurar o ambiente de desenvolvimento local:
 
 ## Uso
 
-Após a instalação, acesse a URL fornecida pelo comando `php artisan serve`.
-
+Atualmente está desativado!
 
 ## Licença
 
